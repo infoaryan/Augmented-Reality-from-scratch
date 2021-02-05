@@ -1,3 +1,6 @@
+#Code written by : Aryan Verma (infoaryan)
+#Full explanation video link : https://youtu.be/lU4zgDe1x6Y 
+
 import cv2
 import numpy as np
 
